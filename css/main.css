@@ -1,0 +1,13 @@
+.team{
+    background-color: bisque;
+    text-align: center;
+}
+
+.name{
+    float: left;
+    width: 33%;
+}
+
+.name-fix{
+    clear: left;
+}
